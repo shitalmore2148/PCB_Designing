@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 05/02/2018 8:58:31 PM
+
+BeginCmp
+TimeStamp = /5A786E94;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E58;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDV;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E3E;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786DE4;
+Reference = R1;
+ValeurCmp = 22K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786DF3;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E2F;
+Reference = R3;
+ValeurCmp = RVAR;
+IdModule  = RV2X4;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E02;
+Reference = R4;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E11;
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E20;
+Reference = R6;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A786E85;
+Reference = U1;
+ValeurCmp = LM741;
+IdModule  = DIP-8__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5A787450;
+Reference = U2;
+ValeurCmp = 4017;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+EndListe
